@@ -17,3 +17,13 @@ I write code in the night
 Then I open up the console
 And have a fit from all the light
 ```
+
+### mad -eq bash
+```
+when god created man
+he also created symbols
+and not the ones that clash
+they show things more than,
+less than, equals
+but not so much in bash
+```
